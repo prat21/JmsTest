@@ -1,0 +1,1 @@
+After importing the project, go to "Project Facets" and choose the "dynamic web module" and "Java" to remove the build time errors.
